@@ -11,7 +11,7 @@ from telegram.ext import (
 )
 import yt_dlp
 
-TOKEN = os.getenv("8683427174:AAH2UgFOWhpcQez8Rh3i6YSqJ-yCrlUquRU")
+TOKEN = os.getenv("8683427174:AAFtUSpeFqTkqyGLhdmRQjLjhdFBAlPMwHw")
 
 user_links = {}
 
